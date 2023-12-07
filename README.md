@@ -8,7 +8,7 @@
 
 https://github.com/Krasilka/goals-app-rn/assets/14870744/b76db8ba-ad55-4a7b-ae58-6bced4869b3f
 
-## Steps to rung the project:
+## Steps to run the project:
 
 ### Prerequisites:
 
