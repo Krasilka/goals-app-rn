@@ -1,4 +1,3 @@
-# goals-app-rn
 
 ## React Native Goals App
 
@@ -9,33 +8,43 @@
 
 https://github.com/Krasilka/goals-app-rn/assets/14870744/b76db8ba-ad55-4a7b-ae58-6bced4869b3f
 
-##Steps to rung the project:
+## Steps to rung the project:
 
-#Prerequisites:
+# Prerequisites:
 
 1. Ensure that you have Node.js and npm installed on your machine. You can download and install them from the official website: [Node.js](https://nodejs.org/en).
 2. Install Expo CLI globally on your machine using the following command in your terminal:
-   ```npm install -g expo-cli```
+   ```
+   npm install -g expo-cli
+   ```
 
-#Steps:
+# Steps:
 
-1. **Clone the GitHub Repository:
+1. ** Clone the GitHub Repository:
   * Open your terminal and navigate to the directory where you want to clone the repository.
   * Run the following command to clone the repository:
-```git clone <repository-url>```
-2. **Navigate to Project Directory:
+   ```
+   git clone <repository-url>
+   ```
+2. ** Navigate to Project Directory:
   * Change into the project directory using the cd command:
-    ```cd <project-directory>```
-3. **Install Dependencies:
+    ```
+    cd <project-directory>
+    ```
+3. ** Install Dependencies:
   * Run the following command to install the project dependencies:
-      ```npm install```
-4. **Start the Expo Development Server:
+    ```
+    npm install
+    ```
+4. ** Start the Expo Development Server:
   * Once the installation is complete, start the Expo development server:
-    ```expo start```
-5. **Run on Emulator or Physical Device:
+    ```
+    expo start
+    ```
+5. ** Run on Emulator or Physical Device:
   To run the app on an emulator or physical device, you have a few options:
-  * Press a to run the app on an Android emulator.
-  * Press i to run the app on the iOS simulator (macOS only).
+  * Press `a` to run the app on an Android emulator.
+  * Press `i` to run the app on the iOS simulator (macOS only).
   * Scan the QR code with the Expo Go app on your physical device.
   * Once the build is complete, you should be able to see your app running on the emulator or physical device.
 
