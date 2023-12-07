@@ -14,6 +14,7 @@ https://github.com/Krasilka/goals-app-rn/assets/14870744/b76db8ba-ad55-4a7b-ae58
 
 1. Ensure that you have Node.js and npm installed on your machine. You can download and install them from the official website: [Node.js](https://nodejs.org/en).
 2. Install Expo CLI globally on your machine using the following command in your terminal:
+   
    ```
    npm install -g expo-cli
    ```
@@ -23,21 +24,25 @@ https://github.com/Krasilka/goals-app-rn/assets/14870744/b76db8ba-ad55-4a7b-ae58
 1. **Clone the GitHub Repository:**
   * Open your terminal and navigate to the directory where you want to clone the repository.
   * Run the following command to clone the repository:
-   ```
-   git clone <repository-url>
-   ```
+    
+    ```
+    git clone <repository-url>
+    ```
 2. **Navigate to Project Directory:**
   * Change into the project directory using the cd command:
+    
     ```
     cd <project-directory>
     ```
 3. **Install Dependencies:**
   * Run the following command to install the project dependencies:
+    
     ```
     npm install
     ```
 4. **Start the Expo Development Server:**
   * Once the installation is complete, start the Expo development server:
+    
     ```
     expo start
     ```
